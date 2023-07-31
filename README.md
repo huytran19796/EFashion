@@ -14,19 +14,18 @@
 + Add, delete, and update cart
 + Admin dashboard with statistics
   
-## Technology
-**1. Back End**
+## 1. Back End
   - Java 11
   - Spring Boot 2.7
   - Spring MVC model
   - Spring Data, Hibernate
   - Spring Security
-**2. Database**
+## 2. Database
   - MySQL
-**3. Other Technology**
+## 3. Other Technology
   - RESTful API
   - JSON Web Tokens
   - JavaMail
   - jQuery Ajax call API
-**4. Front End**
+## 4. Front End
   - Get available template and custom
