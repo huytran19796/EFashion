@@ -3,7 +3,7 @@
 ## Description
 - Application to create and manage product order, make it easier for Customers.
 - To practice and learn project about web back end Java Spring Boot
-- The respositoy includes 3 sources:
+- The respositoy includes 3 sources:\n
                                + EFashion_BE: Back End source
                                + EFashion_FE: Front End source
                                + EFashion_FE_Admin: Front End source about dashboard, admin page
