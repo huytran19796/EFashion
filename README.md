@@ -4,9 +4,9 @@
 - Application to create and manage product order, make it easier for Customers.
 - To practice and learn project about web back end Java Spring Boot
 - The respositoy includes 3 sources:
-                               `*`+ EFashion_BE: Back End source
-                               `*`+ EFashion_FE: Front End source
-                               `*`+ EFashion_FE_Admin: Front End source about dashboard, admin page
+                               <p>+ EFashion_BE: Back End source</p>
+                               <p>+ EFashion_FE: Front End source</p>
+                               <p>+ EFashion_FE_Admin: Front End source about dashboard, admin page</p>
 - This project started from 14-02-2023 to 28-04-2023
 - Team: 3 members. Original source: https://github.com/java20nhom4/eFashion
 
